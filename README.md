@@ -20,15 +20,15 @@ NB: Replace `$USER` with your own GitHub user name, and `$REPO` with whatever yo
 to name your local repository.
 3. If you don't plan to use RStudio, you're all done. Simply use
    ProjectTemplate as you normally would by navigating to the root
-folder of your repo within R and issuing the following commands:  
-```
+folder of your repo within R and issuing the following commands:   
+```   
 library(ProjectTemplate)
 load.project()
 ```   
 If you're using RStudio, read on.
-4. Rename the RStudio project file by renaming the file `NewProject.Rproj`:
+4. Rename the RStudio project file by renaming the file `NewProject.Rproj`:    
 ```
-mv NewProject.Rproj $NAME
+mv NewProject.Rproj $NAME   
 ```  
 where you should replace `$NAME` with the new name of the RStudio
 project.
