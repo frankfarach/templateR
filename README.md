@@ -13,9 +13,9 @@ To use this repository, do the following:
 
 1. [Fork](https://help.github.com/articles/fork-a-repo) this repo.
 2. Clone your copy of the repo to your local directory:  
-
+```
     git clone https://github.com/$USER/templateR.git $REPO
-
+```
     NB: Replace `$USER` with your own GitHub user name, and `$REPO` with whatever you want
 to name your local repository.
 
@@ -23,9 +23,10 @@ to name your local repository.
    ProjectTemplate as you normally would by navigating to the root
 folder of your repo within R and issuing the following commands:   
 
+```
     library(ProjectTemplate)  
     load.project()
-
+```
     If you're using RStudio, read on.
 
 4. Rename the RStudio project file by renaming the file `NewProject.Rproj`:    
