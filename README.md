@@ -8,9 +8,10 @@ R project. templateR is the result of creating a bare-bones
 
 This isn't an R package or anything fancy like that; I'm just making
 available something I created to save myself time. I wanted the
-simplicity of being able to just clone a repo and automatically have the
-default structure and RStudio project that I always work with when I
-start a new analysis project in R.
+simplicity of being able to just clone a repo and automatically have, in
+a version-controlled directory, the default structure and RStudio
+project that I always work with when I start a new analysis project in
+R.
 
 You must have the ProjectTemplate R package
 [installed](http://projecttemplate.net/installing.html) and, optionally,
