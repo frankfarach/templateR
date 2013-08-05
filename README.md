@@ -11,12 +11,12 @@ of RStudio installed.
 
 To use this repository, do the following:
 
-1. Fork this repo.
+1. [Fork](https://help.github.com/articles/fork-a-repo) this repo.
 2. Clone your copy of the repo to your local directory:  
 ```
-git clone https://github.com/USER/templateR.git REPO
+git clone https://github.com/$USER/templateR.git $REPO
 ```  
-NB: Replace `USER` with your own GitHub user name, and `REPO` with whatever you want
+NB: Replace `$USER` with your own GitHub user name, and `$REPO` with whatever you want
 to name your local repository.
 3. If you use RStudio and want to open the project, click on the `Project`
 button in the upper-right-hand side of the window, then select `Open
