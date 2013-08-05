@@ -22,7 +22,7 @@ to name your local repository.
    ProjectTemplate as you normally would by navigating to the root
 folder of your repo within R and issuing the following commands:   
 ```   
-library(ProjectTemplate)
+library(ProjectTemplate)   
 load.project()
 ```   
 If you're using RStudio, read on.
