@@ -1,13 +1,21 @@
 # Welcome to templateR!
 
-templateR is a repository that will quickly get you set up with a templated,
-version-controlled directory structure and an RStudio project for a new R
-project. templateR is the result of creating a bare-bones
+templateR is a repository that allows you to quickly deploy a templated,
+version-controlled directory structure and an RStudio project for a new
+R project. templateR is the result of creating a bare-bones
 [ProjectTemplate](http://projecttemplate.net/) project and adding an
-[RStudio](http://rstudio.com) project configuration file.
+[RStudio](http://rstudio.com) project configuration file. 
 
-You must have the ProjectTemplate R package installed and, optionally, a copy
-of RStudio installed.
+This isn't an R package or anything fancy like that; I'm just making
+available something I created to save myself time. I wanted the
+simplicity of being able to just clone a repo and automatically have the
+default structure and RStudio project that I always work with when I
+start a new analysis project in R.
+
+You must have the ProjectTemplate R package
+[installed](http://projecttemplate.net/installing.html) and, optionally,
+a copy of RStudio
+[installed](http://www.rstudio.com/ide/download/desktop).
 
 To use this repository, do the following:
 
