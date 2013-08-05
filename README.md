@@ -55,4 +55,6 @@ Project...`. Select the folder you just created above when you cloned the reposi
     load.project()
     ```
 
-7. Visit the [ProjectTemplate](http://projecttemplate.net) website to learn more.  Happy analyzing and committing!
+7. Watch this [video](http://www.youtube.com/watch?v=I9YNIi-QmR0) on
+   using R, ProjectTemplate, RStudio, and GitHub to learn more. Happy
+analyzing and committing!
