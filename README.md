@@ -18,7 +18,9 @@ You must have the ProjectTemplate R package
 a copy of RStudio
 [installed](http://www.rstudio.com/ide/download/desktop).
 
-To use this repository, do the following:
+To use this repository, you can download and use the templateR.sh [bash
+script](https://github.com/frankfarach/RDevOps/blob/master/templateR.sh)
+(recommended) or do the following:
 
 1. [Fork](https://help.github.com/articles/fork-a-repo) this repo. You
    only need to do this the first time.
